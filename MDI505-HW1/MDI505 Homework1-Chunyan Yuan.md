@@ -6,6 +6,8 @@
 
 <img src="Q1-Heat Capacity.png" width="70%">
 
+
+
 ####What is the slope of this fitted line?
 
 25.0063343
@@ -18,7 +20,7 @@ C_m = \frac{dU}{dT} = 3R = 25 JK^{-1}mol^{-1}
 $$
 This value is expected.
 
-####Now consider $Be$, which is a very light metal. It has to $c_s = 1.825 J g^{−1} K^{−1}$  and $ M_{at} = 9.012 g mol^{−1}$. What is its molar heat capacity $C_m$? How does the value for Be fit the rest of the data? 
+####Now consider $Be$, which is a very light metal. It has to $c_s = 1.825 J g^{−1} K^{−1}​$  and $ M_{at} = 9.012 g mol^{−1}​$. What is its molar heat capacity $C_m​$? How does the value for Be fit the rest of the data? 
 $$
 c_s =\frac{C_m}{M_{at}}
 $$
