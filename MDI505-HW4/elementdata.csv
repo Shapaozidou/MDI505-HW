@@ -1,0 +1,119 @@
+Atomic Number,Symbol,Period,Group,Electronegativity,Calculated Radius,First Ionization,Core Configuration,Heat of Vapor,Covalent Radius,Heat of Fusion,Bulk Modulus,Boiling Point,Brinell Hardness,Melting Point,STP Density,Young Modulus,Shear Modulus,Vickers Hardness,Name,Common Ions,Second Ionization,Mass,Van der Waals Radius,Specific Heat,Thermal Cond.,Third Ionization,Series,Electron Affinity,Mohs Hardness,Empirical Radius
+1,H,1,1,2.2,53,1312,1s1,0.452,37,0.558,Unknown,20.28,Unknown,14.01,0.0899,Unknown,Unknown,Unknown,Hydrogen,H+,Unknown,1.00794,120,14300,0.1805,Unknown,Nonmetal,72.8,Unknown,25
+2,He,1,18,Unknown,31,2372.3,1s2,0.083,32,0.02,Unknown,4.22,Unknown,0,0.1785,Unknown,Unknown,Unknown,Helium,NA,5250.5,4.002602,140,5193.1,0.1513,Unknown,Noble Gas,0,Unknown,Unknown
+3,Li,2,1,0.98,167,520.2,[He] 2s1,147,134,3,11,1615,Unknown,453.69,535,4.9,4.2,Unknown,Lithium,Li+,7298.1,6.941,182,3570,85,11815,Alkali Metal,59.6,0.6,145
+4,Be,2,2,1.57,112,899.5,[He] 2s2,297,90,7.95,130,2743,600,1560,1848,287,132,1670,Beryllium,Be2+,1757.1,9.012182,Unknown,1820,190,14848.7,Alkaline Earth Metal,0,5.5,105
+5,B,2,13,2.04,87,800.6,[He] 2s2 2p1,507,82,50,320,4273,Unknown,2348,2460,Unknown,Unknown,49000,Boron,NA,2427.1,10.811,Unknown,1030,27,3659.7,Metalloid,26.7,9.3,85
+6,C,2,14,2.55,67,1086.5,[He] 2s2 2p2,715,77,105,33,4300,Unknown,3823,2260,Unknown,Unknown,Unknown,Carbon,C4-,2352.6,12.0107,170,710,140,4620.5,Nonmetal,153.9,0.5,70
+7,N,2,15,3.04,56,1402.3,[He] 2s2 2p3,2.79,75,0.36,Unknown,77.36,Unknown,63.05,1.251,Unknown,Unknown,Unknown,Nitrogen,N3-,2856,14.0067,155,1040,0.02583,4578.1,Nonmetal,7,Unknown,65
+8,O,2,16,3.44,48,1313.9,[He] 2s2 2p4,3.41,73,0.222,Unknown,90.2,Unknown,54.8,1.429,Unknown,Unknown,Unknown,Oxygen,O2-,3388.3,15.9994,152,919,0.02658,5300.5,Nonmetal,141,Unknown,60
+9,F,2,17,3.98,42,1681,[He] 2s2 2p5,3.27,71,0.26,Unknown,85.03,Unknown,53.5,1.696,Unknown,Unknown,Unknown,Fluorine,F-,3374.2,18.9984032,147,824,0.0277,6050.4,Halogen,328,Unknown,50
+10,Ne,2,18,Unknown,38,2080.7,[He] 2s2 2p6,1.75,69,0.34,Unknown,27.07,Unknown,24.56,0.9,Unknown,Unknown,Unknown,Neon,NA,3952.3,20.1797,154,1030,0.0491,6122,Noble Gas,0,Unknown,Unknown
+11,Na,3,1,0.93,190,495.8,[Ne] 3s1,97.7,154,2.6,6.3,1156,0.69,370.87,968,10,3.3,Unknown,Sodium,Na+,4562,22.9898,227,1230,140,6910.3,Alkali Metal,52.8,0.5,180
+12,Mg,3,2,1.31,145,737.7,[Ne] 3s2,128,130,8.7,45,1363,260,923,1738,45,17,Unknown,Magnesium,Mg2+,1450.7,24.305,173,1020,160,7732.7,Alkaline Earth Metal,0,2.5,150
+13,Al,3,13,1.61,118,577.5,[Ne] 3s2 3p1,293,118,10.7,76,2792,245,933.47,2700,70,26,167,Aluminum,Al3+,1816.7,26.9815,Unknown,904,235,2744.8,Post-Transition Metal,42.5,2.75,125
+14,Si,3,14,1.9,111,786.5,[Ne] 3s2 3p2,359,111,50.2,100,3173,Unknown,1687,2330,47,Unknown,Unknown,Silicon,NA,1577.1,28.0855,210,710,150,3231.6,Metalloid,133.6,6.5,110
+15,P,3,15,2.19,98,1011.8,[Ne] 3s2 3p3,12.4,106,0.64,11,553.6,Unknown,317.3,1823,Unknown,Unknown,Unknown,Phosphorus,P3-,1907,30.9738,180,769.7,0.236,2914.1,Nonmetal,72,Unknown,100
+16,S,3,16,2.58,88,999.6,[Ne] 3s2 3p4,9.8,102,1.73,7.7,717.87,Unknown,388.36,1960,Unknown,Unknown,Unknown,Sulfur,S2-,2252,32.065,180,705,0.205,3357,Nonmetal,200,2,100
+17,Cl,3,17,3.16,79,1251.2,[Ne] 3s2 3p5,10.2,99,3.2,1.1,239.11,Unknown,171.6,3.214,Unknown,Unknown,Unknown,Chlorine,Cl-,2298,35.453,175,478.2,0.0089,3822,Halogen,349,Unknown,100
+18,Ar,3,18,Unknown,71,1520.6,[Ne] 3s2 3p6,6.5,97,1.18,Unknown,87.3,Unknown,83.8,1.784,Unknown,Unknown,Unknown,Argon,NA,2665.8,39.948,188,520.33,0.01772,3931,Noble Gas,0,Unknown,71
+19,K,4,1,0.82,243,418.8,[Ar] 4s1,76.9,196,2.33,3.1,1032,0.363,336.53,856,Unknown,1.3,Unknown,Potassium,K+,3052,39.0983,275,757,100,4420,Alkali Metal,48.4,0.4,220
+20,Ca,4,2,1,194,589.8,[Ar] 4s2,155,174,8.54,17,1757,167,1115,1550,20,7.4,Unknown,Calcium,Ca2+,1145.4,40.078,Unknown,631,200,4912.4,Alkaline Earth Metal,2.37,1.75,180
+21,Sc,4,3,1.36,184,633.1,[Ar] 4s2 3d1,318,144,16,57,3103,750,1814,2985,74,29,Unknown,Scandium,Sc3+,1235,44.9559,Unknown,567,16,2388.6,Transition Metal,18.1,Unknown,160
+22,Ti,4,4,1.54,176,658.8,[Ar] 4s2 3d2,425,136,18.7,110,3560,716,1941,4507,116,44,970,Titanium,Ti3+,1309.8,47.867,Unknown,520,22,2652.5,Transition Metal,7.6,6,140
+23,V,4,5,1.63,171,650.9,[Ar] 4s2 3d3,453,125,22.8,160,3680,628,2183,6110,128,47,628,Vanadium,V3+,1414,50.9415,Unknown,489,31,2830,Transition Metal,50.6,7,135
+24,Cr,4,6,1.66,166,652.9,[Ar] 4s1 3d5,339,127,20.5,160,2944,1120,2180,7140,279,115,1060,Chromium,Cr2+,1590.6,51.9961,Unknown,448,94,2987,Transition Metal,64.3,8.5,140
+25,Mn,4,7,1.55,161,717.3,[Ar] 4s2 3d5,220,139,13.2,120,2334,196,1519,7470,198,Unknown,Unknown,Manganese,Mn2+,1509,54.938,Unknown,479,7.8,3248,Transition Metal,0,6,140
+26,Fe,4,8,1.83,156,762.5,[Ar] 4s2 3d6,347,125,13.8,170,3134,490,1811,7874,211,82,608,Iron,Fe2+,1561.9,55.845,Unknown,449,80,2957,Transition Metal,15.7,4,140
+27,Co,4,9,1.88,152,760.4,[Ar] 4s2 3d7,375,126,16.2,180,3200,700,1768,8900,209,75,1043,Cobalt,Co2+,1648,58.9332,Unknown,421,100,3232,Transition Metal,63.7,5,135
+28,Ni,4,10,1.91,149,737.1,[Ar] 4s2 3d8,378,121,17.2,180,3186,700,1728,8908,200,76,638,Nickel,Ni2+,1753,58.6934,163,445,91,3395,Transition Metal,112,4,135
+29,Cu,4,11,1.9,145,745.5,[Ar] 4s1 3d10,300,138,13.1,140,3200,874,1357.77,8920,130,48,369,Copper,Cu+,1957.9,63.546,140,384.4,400,3555,Transition Metal,118.4,3,135
+30,Zn,4,12,1.65,142,906.4,[Ar] 4s2 3d10,119,131,7.35,70,1180,412,692.68,7140,108,43,Unknown,Zinc,Zn2+,1733.3,65.38,139,388,120,3833,Transition Metal,0,2.5,135
+31,Ga,4,13,1.81,136,578.8,[Ar] 4s2 3d10 4p1,256,126,5.59,Unknown,2477,60,302.91,5904,Unknown,Unknown,Unknown,Gallium,Ga3+,1979.3,69.723,187,371,29,2963,Post-Transition Metal,28.9,1.5,130
+32,Ge,4,14,2.01,125,762,[Ar] 4s2 3d10 4p2,334,122,31.8,Unknown,3093,Unknown,1211.4,5323,Unknown,Unknown,Unknown,Germanium,NA,1537.5,72.63,Unknown,321.4,60,3302.1,Metalloid,119,6,125
+33,As,4,15,2.18,114,947,[Ar] 4s2 3d10 4p3,32.4,119,27.7,22,887,1440,1090,5727,8,Unknown,Unknown,Arsenic,As3+,1798,74.9216,185,328,50,2735,Metalloid,78,3.5,115
+34,Se,4,16,2.55,103,941,[Ar] 4s2 3d10 4p4,26,116,5.4,8.3,958,736,494,4819,10,3.7,Unknown,Selenium,Se2-,2045,78.96,190,321.2,0.52,2973.7,Nonmetal,195,2,115
+35,Br,4,17,2.96,94,1139.9,[Ar] 4s2 3d10 4p5,14.8,114,5.8,1.9,332,Unknown,265.8,3120,Unknown,Unknown,Unknown,Bromine,Br-,2103,79.904,185,947.3,0.12,3470,Halogen,324.6,Unknown,115
+36,Kr,4,18,3,88,1350.8,[Ar] 4s2 3d10 4p6,9.02,110,1.64,Unknown,119.93,Unknown,115.79,3.75,Unknown,Unknown,Unknown,Krypton,NA,2350.4,83.798,202,248.05,0.00943,3565,Noble Gas,0,Unknown,Unknown
+37,Rb,5,1,0.82,265,403,[Kr] 5s1,72,211,2.19,2.5,961,0.216,312.46,1532,2.4,Unknown,Unknown,Rubidium,Rb+,2633,85.4678,Unknown,364,58,3860,Alkali Metal,46.9,0.3,235
+38,Sr,5,2,0.95,219,549.5,[Kr] 5s2,137,192,8,Unknown,1655,Unknown,1050,2630,Unknown,6.1,Unknown,Strontium,Sr2+,1064.2,87.62,Unknown,300,35,4138,Alkaline Earth Metal,5.03,1.5,200
+39,Y,5,3,1.22,212,600,[Kr] 5s2 4d1,380,162,11.4,41,3618,589,1799,4472,64,26,Unknown,Yttrium,NA,1180,88.9059,Unknown,298,17,1980,Transition Metal,29.6,Unknown,180
+40,Zr,5,4,1.33,206,640.1,[Kr] 5s2 4d2,580,148,21,Unknown,4682,650,2128,6511,68,33,903,Zirconium,NA,1270,91.224,Unknown,278,23,2218,Transition Metal,41.1,5,155
+41,Nb,5,5,1.6,198,652.1,[Kr] 5s1 4d4,690,137,26.8,170,5017,736,2750,8570,105,38,1320,Niobium,NA,1380,92.9064,Unknown,265,54,2416,Transition Metal,86.1,6,145
+42,Mo,5,6,2.16,190,684.3,[Kr] 5s1 4d5,600,145,36,230,4912,1500,2896,10280,329,20,1530,Molybdenum,NA,1560,95.96,Unknown,251,139,2618,Transition Metal,71.9,5.5,145
+43,Tc,5,7,1.9,183,702,[Kr] 5s2 4d5,550,156,23,Unknown,4538,Unknown,2430,11500,Unknown,Unknown,Unknown,Technetium,NA,1470,98,Unknown,63,51,2850,Transition Metal,53,Unknown,135
+44,Ru,5,8,2.2,178,710.2,[Kr] 5s1 4d7,580,126,25.7,220,4423,2160,2607,12370,447,173,Unknown,Ruthenium,NA,1620,101.07,Unknown,238,120,2747,Transition Metal,101.3,6.5,130
+45,Rh,5,9,2.28,173,719.7,[Kr] 5s1 4d8,495,135,21.7,380,3968,1100,2237,12450,275,150,1246,Rhodium,NA,1740,102.9055,Unknown,240,150,2997,Transition Metal,109.7,6,135
+46,Pd,5,10,2.2,169,804.4,[Kr] 4d10,380,131,16.7,180,3236,37.3,1828.05,12023,121,44,461,Palladium,NA,1870,106.42,163,240,72,3177,Transition Metal,53.7,4.75,140
+47,Ag,5,11,1.93,165,731,[Kr] 5s1 4d10,255,153,11.3,100,2435,24.5,1234.93,10490,83,30,251,Silver,Ag+,2070,107.8682,172,235,430,3361,Transition Metal,125.6,2.5,160
+48,Cd,5,12,1.69,161,867.8,[Kr] 5s2 4d10,100,148,6.3,42,1040,203,594.22,8650,50,19,Unknown,Cadmium,Cd2+,1631.4,112.411,158,230,97,3616,Transition Metal,0,2,155
+49,In,5,13,1.78,156,558.3,[Kr] 5s2 4d10 5p1,230,144,3.26,Unknown,2345,8.83,429.75,7310,11,Unknown,Unknown,Indium,In3+,1820.7,114.818,193,233,82,2704,Post-Transition Metal,28.9,1.2,155
+50,Sn,5,14,1.96,145,708.6,[Kr] 5s2 4d10 5p2,290,141,7,58,2875,51,505.08,7310,50,18,Unknown,Tin,Sn2+,1411.8,118.71,217,217,67,2943,Post-Transition Metal,107.3,1.5,145
+51,Sb,5,15,2.05,133,834,[Kr] 5s2 4d10 5p3,68,138,19.7,42,1860,294,903.78,6697,55,20,Unknown,Antimony,Sb3+,1594.9,121.76,Unknown,207,24,2440,Metalloid,103.2,3,145
+52,Te,5,16,2.1,123,869.3,[Kr] 5s2 4d10 5p4,48,135,17.5,65,1261,180,722.66,6240,43,16,Unknown,Tellurium,Te2-,1790,127.6,206,201,3,2698,Metalloid,190.2,2.25,140
+53,I,5,17,2.66,115,1008.4,[Kr] 5s2 4d10 5p5,20.9,133,7.76,7.7,457.4,Unknown,386.85,4940,Unknown,Unknown,Unknown,Iodine,I-,1845.9,126.9045,198,429,0.449,3180,Halogen,295.2,Unknown,140
+54,Xe,5,18,2.6,108,1170.4,[Kr] 5s2 4d10 5p6,12.64,130,2.3,Unknown,165.1,Unknown,161.3,5.9,Unknown,Unknown,Unknown,Xenon,NA,2046.4,131.293,216,158.32,0.00565,3099.4,Noble Gas,0,Unknown,Unknown
+55,Cs,6,1,0.79,298,375.7,[Xe] 6s1,65,225,2.09,1.6,944,0.14,301.59,1879,1.7,Unknown,Unknown,Caesium,Cs+,2234.3,132.9054,Unknown,242,36,3400,Alkali Metal,45.5,0.2,260
+56,Ba,6,2,0.89,253,502.9,[Xe] 6s2,140,198,8,9.6,2143,Unknown,1000,3510,13,4.9,Unknown,Barium,Ba2+,965.2,137.327,Unknown,205,18,3600,Alkaline Earth Metal,13.95,1.25,215
+57,La,6,3,1.1,Unknown,538.1,[Xe] 6s2 5d1,400,169,6.2,28,3737,363,1193,6146,37,14,491,Lanthanum,NA,1067,138.9055,Unknown,195,13,1850.3,Lanthanoid,48,2.5,195
+58,Ce,6,3,1.12,Unknown,534.4,[Xe] 6s2 4f1 5d1,350,Unknown,5.5,22,3633,412,1071,6689,34,14,270,Cerium,Ce3+,1050,140.116,Unknown,192,11,1949,Lanthanoid,50,2.5,185
+59,Pr,6,3,1.13,247,527,[Xe] 6s2 4f3,330,Unknown,6.9,29,3563,481,1204,6640,37,15,400,Praseodymium,NA,1020,140.9077,Unknown,193,13,2086,Lanthanoid,50,Unknown,185
+60,Nd,6,3,1.14,206,533.1,[Xe] 6s2 4f4,285,Unknown,7.1,32,3373,265,1294,7010,41,16,343,Neodymium,NA,1040,144.242,Unknown,190,17,2130,Lanthanoid,50,Unknown,185
+61,Pm,6,3,Unknown,205,540,[Xe] 6s2 4f5,290,Unknown,7.7,33,3273,Unknown,1373,7264,46,18,Unknown,Promethium,NA,1050,145,Unknown,Unknown,15,2150,Lanthanoid,50,Unknown,185
+62,Sm,6,3,1.17,238,544.5,[Xe] 6s2 4f6,175,Unknown,8.6,38,2076,441,1345,7353,50,20,412,Samarium,NA,1070,150.36,Unknown,196,13,2260,Lanthanoid,50,Unknown,185
+63,Eu,6,3,Unknown,231,547.1,[Xe] 6s2 4f7,175,Unknown,9.2,8.3,1800,Unknown,1095,5244,18,7.9,167,Europium,NA,1085,151.964,Unknown,182,14,2404,Lanthanoid,50,Unknown,185
+64,Gd,6,3,1.2,233,593.4,[Xe] 6s2 4f7 5d1,305,Unknown,10,38,3523,Unknown,1586,7901,55,22,570,Gadolinium,NA,1170,157.25,Unknown,240,11,1990,Lanthanoid,50,Unknown,180
+65,Tb,6,3,Unknown,225,565.8,[Xe] 6s2 4f9,295,Unknown,10.8,38.7,3503,677,1629,8219,56,22,863,Terbium,NA,1110,158.9254,Unknown,182,11,2114,Lanthanoid,50,Unknown,175
+66,Dy,6,3,1.22,228,573,[Xe] 6s2 4f10,280,Unknown,11.1,41,2840,500,1685,8551,61,25,540,Dysprosium,NA,1130,162.5,Unknown,167,11,2200,Lanthanoid,50,Unknown,175
+67,Ho,6,3,1.23,226,581,[Xe] 6s2 4f11,265,Unknown,17,40,2973,746,1747,8795,65,26,481,Holmium,NA,1140,164.9303,Unknown,165,16,2204,Lanthanoid,50,Unknown,175
+68,Er,6,3,1.24,226,589.3,[Xe] 6s2 4f12,285,Unknown,19.9,44,3141,814,1770,9066,70,28,589,Erbium,NA,1150,167.259,Unknown,168,15,2194,Lanthanoid,50,Unknown,175
+69,Tm,6,3,1.25,222,596.7,[Xe] 6s2 4f13,250,Unknown,16.8,45,2223,471,1818,9321,74,31,520,Thulium,NA,1160,168.9342,Unknown,160,17,2285,Lanthanoid,50,Unknown,175
+70,Yb,6,3,Unknown,222,603.4,[Xe] 6s2 4f14,160,Unknown,7.7,31,1469,343,1092,6570,24,9.9,206,Ytterbium,NA,1174.8,173.054,Unknown,154,39,2417,Lanthanoid,50,Unknown,175
+71,Lu,6,3,1.27,217,523.5,[Xe] 6s2 4f14 5d1,415,160,22,48,3675,893,1936,9841,69,27,1160,Lutetium,NA,1340,174.9668,Unknown,154,16,2022.3,Lanthanoid,50,Unknown,175
+72,Hf,6,4,1.3,208,658.5,[Xe] 6s2 4f14 5d2,630,150,25.5,110,4876,1700,2506,13310,78,30,1760,Hafnium,NA,1440,178.49,Unknown,144,23,2250,Transition Metal,0,5.5,155
+73,Ta,6,5,1.5,200,761,[Xe] 6s2 4f14 5d3,735,138,36,200,5731,800,3290,16650,186,69,873,Tantalum,NA,1500,180.9479,Unknown,140,57,Unknown,Transition Metal,31,6.5,145
+74,W,6,6,2.36,193,770,[Xe] 6s2 4f14 5d4,800,146,35,310,5828,2570,3695,19250,411,161,3430,Tungsten,NA,1700,183.84,Unknown,132,170,Unknown,Transition Metal,78.6,7.5,135
+75,Re,6,7,1.9,188,760,[Xe] 6s2 4f14 5d5,705,159,33,370,5869,1320,3459,21020,463,178,2450,Rhenium,NA,1260,186.207,Unknown,137,48,2510,Transition Metal,14.5,7,135
+76,Os,6,8,2.2,185,840,[Xe] 6s2 4f14 5d6,630,128,31,Unknown,5285,3920,3306,22610,Unknown,222,Unknown,Osmium,NA,1600,190.23,Unknown,130,88,Unknown,Transition Metal,106.1,7,130
+77,Ir,6,9,2.2,180,880,[Xe] 6s2 4f14 5d7,560,137,26,320,4701,1670,2739,22650,528,210,1760,Iridium,NA,1600,192.217,Unknown,131,150,Unknown,Transition Metal,151,6.5,135
+78,Pt,6,10,2.28,177,870,[Xe] 6s1 4f14 5d9,490,128,20,230,4098,392,2041.4,21090,168,61,549,Platinum,NA,1791,195.084,175,133,72,Unknown,Transition Metal,205.3,3.5,135
+79,Au,6,11,2.54,174,890.1,[Xe] 6s1 4f14 5d10,330,144,12.5,220,3129,25,1337.33,19300,78,27,216,Gold,Au+,1980,196.9666,166,129.1,320,Unknown,Transition Metal,222.8,2.5,135
+80,Hg,6,12,2,171,1007.1,[Xe] 6s2 4f14 5d10,59.2,149,2.29,25,629.88,Unknown,234.32,13534,Unknown,Unknown,Unknown,Mercury,Hgsub>2sub>2+,1810,200.59,155,139.5,8.3,3300,Transition Metal,0,Unknown,150
+81,Tl,6,13,1.62,156,589.4,[Xe] 6s2 4f14 5d10 6p1,165,148,4.2,43,1746,26.4,577,11850,8,2.8,Unknown,Thallium,Tl+,1971,204.3833,196,129,46,2878,Post-Transition Metal,19.2,1.2,190
+82,Pb,6,14,2.33,154,715.6,[Xe] 6s2 4f14 5d10 6p2,178,147,4.77,46,2022,38.3,600.61,11340,16,5.6,Unknown,Lead,Pb2+,1450.5,207.2,202,127,35,3081.5,Post-Transition Metal,35.1,1.5,180
+83,Bi,6,15,2.02,143,703,[Xe] 6s2 4f14 5d10 6p3,160,146,10.9,31,1837,94.2,544.4,9780,32,12,Unknown,Bismuth,Bi3+,1610,208.9804,Unknown,122,8,2466,Post-Transition Metal,91.2,2.25,160
+84,Po,6,16,2,135,812.1,[Xe] 6s2 4f14 5d10 6p4,100,Unknown,13,Unknown,1235,Unknown,527,9196,Unknown,Unknown,Unknown,Polonium,NA,Unknown,209,Unknown,Unknown,Unknown,Unknown,Metalloid,183.3,Unknown,190
+85,At,6,17,2.2,127,890,[Xe] 6s2 4f14 5d10 6p5,40,Unknown,6,Unknown,610,Unknown,575,Unknown,Unknown,Unknown,Unknown,Astatine,NA,Unknown,210,Unknown,Unknown,2,Unknown,Halogen,270.1,Unknown,Unknown
+86,Rn,6,18,Unknown,120,1037,[Xe] 6s2 4f14 5d10 6p6,17,145,3,Unknown,211.3,Unknown,202,9.73,Unknown,Unknown,Unknown,Radon,NA,Unknown,222,Unknown,93.65,0.00361,Unknown,Noble Gas,0,Unknown,Unknown
+87,Fr,7,1,0.7,Unknown,380,[Rn] 7s1,65,Unknown,2,Unknown,950,Unknown,300,Unknown,Unknown,Unknown,Unknown,Francium,NA,Unknown,223,Unknown,Unknown,Unknown,Unknown,Alkali Metal,Unknown,Unknown,Unknown
+88,Ra,7,2,0.9,Unknown,509.3,[Rn] 7s2,125,Unknown,8,Unknown,2010,Unknown,973,5000,Unknown,Unknown,Unknown,Radium,NA,979,226,Unknown,92,19,Unknown,Alkaline Earth Metal,Unknown,Unknown,215
+89,Ac,7,3,1.1,Unknown,499,[Rn] 7s2 6d1,400,Unknown,14,Unknown,3473,Unknown,1323,10070,Unknown,Unknown,Unknown,Actinium,NA,1170,227,Unknown,120,12,Unknown,Actinoid,Unknown,Unknown,195
+90,Th,7,3,1.3,Unknown,587,[Rn] 7s2 6d2,530,Unknown,16,54,5093,400,2023,11724,79,31,350,Thorium,NA,1110,232.0381,Unknown,118,54,1930,Actinoid,Unknown,3,180
+91,Pa,7,3,1.5,Unknown,568,[Rn] 7s2 5f2 6d1,470,Unknown,15,Unknown,4273,Unknown,1845,15370,Unknown,Unknown,Unknown,Protactinium,NA,Unknown,231.0359,Unknown,99.1,47,Unknown,Actinoid,Unknown,Unknown,180
+92,U,7,3,1.38,Unknown,597.6,[Rn] 7s2 5f3 6d1,420,Unknown,14,100,4200,2400,1408,19050,208,111,1960,Uranium,NA,1420,238.0289,186,116,27,Unknown,Actinoid,Unknown,6,175
+93,Np,7,3,1.36,Unknown,604.5,[Rn] 7s2 5f4 6d1,335,Unknown,10,Unknown,4273,Unknown,917,20450,Unknown,Unknown,Unknown,Neptunium,NA,Unknown,237,Unknown,Unknown,6,Unknown,Actinoid,Unknown,Unknown,175
+94,Pu,7,3,1.28,Unknown,584.7,[Rn] 7s2 5f6,325,Unknown,Unknown,Unknown,3503,Unknown,913,19816,96,43,Unknown,Plutonium,NA,Unknown,244,Unknown,Unknown,6,Unknown,Actinoid,Unknown,Unknown,175
+95,Am,7,3,1.3,Unknown,578,[Rn] 7s2 5f7,Unknown,Unknown,Unknown,Unknown,2284,Unknown,1449,Unknown,Unknown,Unknown,Unknown,Americium,NA,Unknown,243,Unknown,Unknown,10,Unknown,Actinoid,Unknown,Unknown,175
+96,Cm,7,3,1.3,Unknown,581,[Rn] 7s2 5f7 6d1,Unknown,Unknown,Unknown,Unknown,3383,Unknown,1618,13510,Unknown,Unknown,Unknown,Curium,NA,Unknown,247,Unknown,Unknown,Unknown,Unknown,Actinoid,Unknown,Unknown,Unknown
+97,Bk,7,3,1.3,Unknown,601,[Rn] 7s2 5f9,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,1323,14780,Unknown,Unknown,Unknown,Berkelium,NA,Unknown,247,Unknown,Unknown,10,Unknown,Actinoid,Unknown,Unknown,Unknown
+98,Cf,7,3,1.3,Unknown,608,[Rn] 7s2 5f10,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,1173,15100,Unknown,Unknown,Unknown,Californium,NA,Unknown,251,Unknown,Unknown,Unknown,Unknown,Actinoid,Unknown,Unknown,Unknown
+99,Es,7,3,1.3,Unknown,619,[Rn] 7s2 5f11,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,1133,Unknown,Unknown,Unknown,Unknown,Einsteinium,NA,Unknown,252,Unknown,Unknown,Unknown,Unknown,Actinoid,Unknown,Unknown,Unknown
+100,Fm,7,3,1.3,Unknown,627,[Rn] 7s2 5f12,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,1800,Unknown,Unknown,Unknown,Unknown,Fermium,NA,Unknown,257,Unknown,Unknown,Unknown,Unknown,Actinoid,Unknown,Unknown,Unknown
+101,Md,7,3,1.3,Unknown,635,[Rn] 7s2 5f13,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,1100,Unknown,Unknown,Unknown,Unknown,Mendelevium,NA,Unknown,258,Unknown,Unknown,Unknown,Unknown,Actinoid,Unknown,Unknown,Unknown
+102,No,7,3,1.3,Unknown,642,[Rn] 7s2 5f14,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,1100,Unknown,Unknown,Unknown,Unknown,Nobelium,NA,Unknown,259,Unknown,Unknown,Unknown,Unknown,Actinoid,Unknown,Unknown,Unknown
+103,Lr,7,4,Unknown,Unknown,470,[Rn] 7s2 5f14 7p1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,1900,Unknown,Unknown,Unknown,Unknown,Lawrencium,NA,Unknown,262,Unknown,Unknown,Unknown,Unknown,Actinoid,Unknown,Unknown,Unknown
+104,Rf,7,5,Unknown,Unknown,580,[Rn] 7s2 5f14 6d2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Rutherfordium,NA,Unknown,267,Unknown,Unknown,Unknown,Unknown,Transition Metal,Unknown,Unknown,Unknown
+105,Db,7,6,Unknown,Unknown,Unknown,[Rn] 7s2 5f14 6d3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Dubnium,NA,Unknown,268,Unknown,Unknown,Unknown,Unknown,Transition Metal,Unknown,Unknown,Unknown
+106,Sg,7,7,Unknown,Unknown,Unknown,[Rn] 7s2 5f14 6d4,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Seaborgium,NA,Unknown,271,Unknown,Unknown,Unknown,Unknown,Transition Metal,Unknown,Unknown,Unknown
+107,Bh,7,8,Unknown,Unknown,Unknown,[Rn] 7s2 5f14 6d5,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Bohrium,NA,Unknown,272,Unknown,Unknown,Unknown,Unknown,Transition Metal,Unknown,Unknown,Unknown
+108,Hs,7,9,Unknown,Unknown,Unknown,[Rn] 7s2 5f14 6d6,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Hassium,NA,Unknown,270,Unknown,Unknown,Unknown,Unknown,Transition Metal,Unknown,Unknown,Unknown
+109,Mt,7,10,Unknown,Unknown,Unknown,[Rn] 7s2 5f14 6d7,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Meitnerium,NA,Unknown,276,Unknown,Unknown,Unknown,Unknown,Transition Metal,Unknown,Unknown,Unknown
+110,Ds,7,11,Unknown,Unknown,Unknown,[Rn] 7s1 5f14 6d9,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Darmstadtium,NA,Unknown,281,Unknown,Unknown,Unknown,Unknown,Transition Metal,Unknown,Unknown,Unknown
+111,Rg,7,12,Unknown,Unknown,Unknown,[Rn] 7s1 5f14 6d10,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Roentgenium,NA,Unknown,280,Unknown,Unknown,Unknown,Unknown,Transition Metal,Unknown,Unknown,Unknown
+112,Cn,7,13,Unknown,Unknown,Unknown,[Rn] 7s2 5f14 6d10,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Copernicium,NA,Unknown,285,Unknown,Unknown,Unknown,Unknown,Transition Metal,Unknown,Unknown,Unknown
+113,Uut,7,14,Unknown,Unknown,Unknown,[Rn] 7s2 5f14 6d10 7p1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Ununtrium,NA,Unknown,284,Unknown,Unknown,Unknown,Unknown,Post-Transition Metal,Unknown,Unknown,Unknown
+114,Fl,7,15,Unknown,Unknown,Unknown,[Rn] 7s2 5f14 6d10 7p2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Flerovium,NA,Unknown,289,Unknown,Unknown,Unknown,Unknown,Post-Transition Metal,Unknown,Unknown,Unknown
+115,Uup,7,16,Unknown,Unknown,Unknown,[Rn] 7s2 5f14 6d10 7p3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Ununpentium,NA,Unknown,288,Unknown,Unknown,Unknown,Unknown,Post-Transition Metal,Unknown,Unknown,Unknown
+116,Lv,7,17,Unknown,Unknown,Unknown,[Rn] 7s2 5f14 6d10 7p4,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Livermorium,NA,Unknown,293,Unknown,Unknown,Unknown,Unknown,Post-Transition Metal,Unknown,Unknown,Unknown
+117,Uus,7,18,Unknown,Unknown,Unknown,[Rn] 7s2 5f14 6d10 7p5,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Ununseptium,NA,Unknown,294,Unknown,Unknown,Unknown,Unknown,Halogen,Unknown,Unknown,Unknown
+118,Uuo,7,19,Unknown,Unknown,Unknown,[Rn] 7s2 5f14 6d10 7p6,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Ununoctium,NA,Unknown,294,Unknown,Unknown,Unknown,Unknown,Noble Gas,Unknown,Unknown,Unknown
