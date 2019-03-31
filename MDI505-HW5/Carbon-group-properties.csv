@@ -1,0 +1,6 @@
+﻿Property,Units,Diamond,Silicon,Germanium,Tin
+Melting Temperature,degC,3800,1417,937,232
+Covalent radius,nm,0.077,0.117,0.122,0.146
+Bond energy,eV,3.60,1.84,1.70,1.20
+First ionization energy,eV,11.26,8.15,7.88,7.33
+Band gap,eV,,1.12,0.67,0.08
